@@ -327,6 +327,7 @@ tests = ["abs_workdir",
          "ndebug",
          "no_type",
          "notfile",
+         "openssl",
          "ordered_include",
 # FIXME: Disabled due to bug in B2
 #         "ordered_properties",
